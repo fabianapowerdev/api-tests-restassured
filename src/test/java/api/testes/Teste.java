@@ -1,4 +1,4 @@
-package api;
+package api.testes;
 
 public class Teste {
 }
